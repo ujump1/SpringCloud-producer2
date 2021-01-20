@@ -1,0 +1,2 @@
+# SpringCloud-producer2
+SpringCloud服务提供者2，和SpringCloud服务提供者1提供同样的服务，相当于两个服务实例。
